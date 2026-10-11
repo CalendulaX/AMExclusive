@@ -36,3 +36,4 @@ jobs:
           path: ${{ runner.temp }}/ame-build/dist/AMExclusive-Setup.exe
           if-no-files-found: error
           retention-days: 14
+          
